@@ -2,7 +2,7 @@
 
 Making Postgres Views - #CREATE VIEW view_name as select * FROM table;
 
-now this view can be use as - #select * FROM view_name;
+now this view can be use as  select * FROM view_name;
 
 
 CALCULATE if table exists or not -
